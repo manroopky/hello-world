@@ -3,4 +3,4 @@ Assignment 6
 
 Hello!
 
-My names Manroop, I love music and my dog Leo!
+My name is Manroop, I love music and my dog Leo!
